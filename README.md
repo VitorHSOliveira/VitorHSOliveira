@@ -193,7 +193,7 @@ Manutenção, evolução e desenvolvimento de novas funcionalidades para sistema
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
       <br><br>
       <a href="LINK-DO-PROJETO">
-        <img src="https://img.shields.io/badge/🚀%20Ver%20projeto-6C63FF?style=for-the-badge">
+        <img src="[https://img.shields.io/badge/🚀%20Ver%20projeto-6C63FF?style=for-the-badge](https://the-simpsons-nine.vercel.app/)">
       </a>
     </td>
   </tr>
